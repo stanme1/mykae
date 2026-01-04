@@ -56,14 +56,14 @@ body {
   position: fixed;
   top: 20px;
   left: 20px;
-  max-width: 270px;
+  max-width: 23-px;
   font-family: "Playfair Display", serif;
-  font-size: 12px;
+  font-size: 10px;
   line-height: 1.6;
   color: rgba(139, 128, 128, 0.65);
   font-style: italic;
   z-index: 2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.3px;
   text-shadow: 0 1px 2px rgb(209, 203, 203);
   pointer-events: none;
 }
@@ -1113,3 +1113,4 @@ body {
     color: white; /* Change text color for better contrast */
 
 }
+
